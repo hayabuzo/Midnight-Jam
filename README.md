@@ -1,4 +1,4 @@
-# Midnight-Jam (webgl)
+# Midnight Jam (webgl)
 Generative cars on midnight roads.
 
 I made this sketch after reading [the Book of Shaders](https://thebookofshaders.com/), so it's like a graduation project covering all main topics of the book. The visual part is inspired by «GTA2» videogame and Gaspar Noe's movie «Enter the Void». 
