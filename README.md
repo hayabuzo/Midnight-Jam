@@ -1,4 +1,4 @@
-# Midnight Jam (webgl)
+# Midnight Jam (WebGL)
 Sketch with generative cars on midnight roads.
 
 ![image](https://user-images.githubusercontent.com/38255514/163983518-ab0e2326-2cd8-452f-9aa6-f9832b8a6ede.png)
